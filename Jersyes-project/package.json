@@ -1,5 +1,13 @@
 {
   "dependencies": {
     "react-router-dom": "^7.9.6"
+  },
+  "devDependencies": {
+    "concurrently": "^10.0.7"
+  },
+  "scripts": {
+    "dev:all": "concurrently -k -n back,front -c blue,green \"npm --prefix back run dev\" \"npm --prefix front run dev\"",
+    "dev:back": "npm --prefix back run dev",
+    "dev:front": "npm --prefix front run dev"
   }
 }

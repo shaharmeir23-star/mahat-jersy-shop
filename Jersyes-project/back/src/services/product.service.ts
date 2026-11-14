@@ -8,7 +8,7 @@ const productRepository: Repository<Product> =
   myDataSource.getRepository(Product);
 
 const defaultURL =
-  "https://jersy-shop-bucket.s3.eu-north-1.amazonaws.com/0-NBA.png";
+  "https://jersy-shop-bucket14.s3.eu-north-1.amazonaws.com/0-NBA.png";
 
 const getAllProducts = async (): Promise<Product[]> => {
   try {
@@ -46,7 +46,7 @@ const addProduct = async (price: number, name: string, file?) => {
     throw new customError(
       "DBError",
       "Failed to put new product in the DB",
-      500
+      500,
     );
   }
 };
@@ -88,7 +88,7 @@ const apploudImage = async (file, productId: number) => {
     throw err;
   }
 
-  return "https://jersy-shop-bucket.s3.eu-north-1.amazonaws.com/" + fileName;
+  return "https://jersy-shop-bucket14.s3.eu-north-1.amazonaws.com/" + fileName;
 };
 
 const deleteProduct = async (productId: number) => {
@@ -128,7 +128,7 @@ const updateProduct = async (
   productId: number,
   name: string,
   price: number,
-  imageUrl?: string
+  imageUrl?: string,
 ) => {
   try {
     const existing = await productRepository.findOneBy({ id: productId });
@@ -136,7 +136,7 @@ const updateProduct = async (
       throw new customError(
         "NOT FOUND",
         `no product with id ${productId}`,
-        404
+        404,
       );
     }
 

@@ -7170,3 +7170,154 @@
 {"level":"info","message":"request: /products sent from IP address ::1"}
 {"level":"info","message":"request: /order/cart/9 sent from IP address ::1"}
 {"level":"info","message":"request: /order/cart/9 sent from IP address ::1"}
+{"level":"info","message":"Server started on port: 3000"}
+{"level":"info","message":"Server started on port: 3000"}
+{"level":"info","message":"request: / sent from IP address ::1"}
+{"level":"info","message":"request: /sw.js sent from IP address ::1"}
+{"level":"info","message":"request: / sent from IP address ::1"}
+{"level":"info","message":"request: /sw.js sent from IP address ::1"}
+{"level":"info","message":"request: /products sent from IP address ::1"}
+{"level":"info","message":"request: /products sent from IP address ::1"}
+{"level":"info","message":"request: /order/cart/22 sent from IP address ::1"}
+{"level":"info","message":"request: /order/cart/22 sent from IP address ::1"}
+{"level":"info","message":"request: / sent from IP address ::1"}
+{"level":"info","message":"request: /sw.js sent from IP address ::1"}
+{"level":"info","message":"request: /auth/google sent from IP address ::1"}
+{"level":"info","message":"request: /auth/google/callback?iss=https%3A%2F%2Faccounts.google.com&code=4%2F0ATsMZqBducPOquYMRvJXj4QzdP33iUNzpcP7pAhwRKhmOUgRO-MoOiDLf_p1MUpS_wJEVg&scope=email+profile+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.email+openid+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.profile&authuser=0&prompt=none sent from IP address ::1"}
+{"level":"info","message":"request: /products sent from IP address ::1"}
+{"level":"info","message":"request: /products sent from IP address ::1"}
+{"level":"info","message":"request: /order/cart/9 sent from IP address ::1"}
+{"level":"info","message":"request: /order/cart/9 sent from IP address ::1"}
+{"level":"info","message":"request: /products sent from IP address ::1"}
+{"level":"info","message":"request: /products sent from IP address ::1"}
+{"level":"info","message":"request: /order/cart/9 sent from IP address ::1"}
+{"level":"info","message":"request: /order/cart/9 sent from IP address ::1"}
+{"level":"info","message":"request: /order/allOrders/9 sent from IP address ::1"}
+{"level":"info","message":"request: /order/allOrders/9 sent from IP address ::1"}
+{"level":"info","message":"request: /products sent from IP address ::1"}
+{"level":"info","message":"request: /products sent from IP address ::1"}
+{"level":"info","message":"request: /order/cart/9 sent from IP address ::1"}
+{"level":"info","message":"request: /order/cart/9 sent from IP address ::1"}
+{"level":"info","message":"request: /products sent from IP address ::1"}
+{"level":"error","message":"ERROR: Invalid token, Unauthorized, "}
+{"level":"info","message":"request: /products sent from IP address ::1"}
+{"level":"error","message":"ERROR: Invalid token, Unauthorized, "}
+{"level":"info","message":"request: /products sent from IP address ::1"}
+{"level":"error","message":"ERROR: Invalid token, Unauthorized, "}
+{"level":"info","message":"request: /products sent from IP address ::1"}
+{"level":"error","message":"ERROR: Invalid token, Unauthorized, "}
+{"level":"info","message":"request: /auth/google sent from IP address ::1"}
+{"level":"info","message":"request: /auth/google sent from IP address ::1"}
+{"level":"info","message":"request: /auth/google/callback?iss=https%3A%2F%2Faccounts.google.com&code=4%2F0ATsMZqB05cIiWmnotXa1WAGgEU1-5PPivQO0fdgV4HGmRyt_ITEZySu00M3nFZ9oaJ0U7g&scope=email+profile+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.profile+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.email+openid&authuser=0&prompt=consent sent from IP address ::1"}
+{"level":"info","message":"request: /products sent from IP address ::1"}
+{"level":"info","message":"request: /products sent from IP address ::1"}
+{"level":"info","message":"request: /order/cart/16 sent from IP address ::1"}
+{"level":"info","message":"request: /order/cart/16 sent from IP address ::1"}
+{"level":"info","message":"request: /orderItems/cart/add/2 sent from IP address ::1"}
+{"level":"info","message":"request: /order/cart/16 sent from IP address ::1"}
+{"level":"info","message":"request: /order/cart/16 sent from IP address ::1"}
+{"level":"info","message":"request: /order/submit/cart sent from IP address ::1"}
+{"level":"info","message":"request: /products sent from IP address ::1"}
+{"level":"info","message":"request: /products sent from IP address ::1"}
+{"level":"info","message":"request: /order/cart/16 sent from IP address ::1"}
+{"level":"info","message":"request: /order/cart/16 sent from IP address ::1"}
+{"level":"info","message":"request: /products sent from IP address ::1"}
+{"level":"info","message":"request: /products sent from IP address ::1"}
+{"level":"info","message":"request: /order/cart/9 sent from IP address ::1"}
+{"level":"info","message":"request: /order/cart/9 sent from IP address ::1"}
+{"level":"info","message":"request: /sw.js sent from IP address ::1"}
+{"level":"info","message":"request: /order/allOrders/9 sent from IP address ::1"}
+{"level":"info","message":"request: /order/allOrders/9 sent from IP address ::1"}
+{"level":"info","message":"request: /order/status sent from IP address ::1"}
+{"level":"info","message":"Socket connected: B3kEuB7arfDJj2xEAAAB"}
+{"level":"info","message":"User 16 connected with socket B3kEuB7arfDJj2xEAAAB"}
+{"level":"info","message":"User 16 sent: bulbul"}
+{"level":"info","message":"request: /products sent from IP address ::1"}
+{"level":"info","message":"request: /products sent from IP address ::1"}
+{"level":"info","message":"request: /order/cart/9 sent from IP address ::1"}
+{"level":"info","message":"request: /order/cart/9 sent from IP address ::1"}
+{"level":"info","message":"Socket connected: xUADrNjm8wY_PfB3AAAD"}
+{"level":"info","message":"Admin joined, socket: xUADrNjm8wY_PfB3AAAD"}
+{"level":"info","message":"request: /users/id sent from IP address ::1"}
+{"level":"info","message":"request: /users/id sent from IP address ::1"}
+{"level":"info","message":"request: /users/id sent from IP address ::1"}
+{"level":"info","message":"Admin sent message to user 16: hi"}
+{"level":"info","message":"request: /products sent from IP address ::1"}
+{"level":"info","message":"request: /products sent from IP address ::1"}
+{"level":"info","message":"request: /order/cart/16 sent from IP address ::1"}
+{"level":"info","message":"request: /order/cart/16 sent from IP address ::1"}
+{"level":"info","message":"Disconnected: B3kEuB7arfDJj2xEAAAB"}
+{"level":"info","message":"User 16 removed"}
+{"level":"info","message":"request: /products sent from IP address ::1"}
+{"level":"info","message":"request: /products sent from IP address ::1"}
+{"level":"info","message":"request: /order/cart/9 sent from IP address ::1"}
+{"level":"info","message":"request: /order/cart/9 sent from IP address ::1"}
+{"level":"info","message":"Disconnected: xUADrNjm8wY_PfB3AAAD"}
+{"level":"info","message":"Socket connected: p_7Vs4NBTJnLfnZCAAAF"}
+{"level":"info","message":"Admin joined, socket: p_7Vs4NBTJnLfnZCAAAF"}
+{"level":"info","message":"Disconnected: p_7Vs4NBTJnLfnZCAAAF"}
+{"level":"info","message":"Socket connected: dASb08a7io6JKoJDAAAH"}
+{"level":"info","message":"Admin joined, socket: dASb08a7io6JKoJDAAAH"}
+{"level":"info","message":"Disconnected: dASb08a7io6JKoJDAAAH"}
+{"level":"info","message":"request: /transactions sent from IP address ::1"}
+{"level":"info","message":"request: /sw.js sent from IP address ::1"}
+{"level":"info","message":"request: /sw.js sent from IP address ::1"}
+{"level":"info","message":"Server started on port: 3000"}
+{"level":"info","message":"Server started on port: 3000"}
+{"level":"info","message":"request: /products sent from IP address ::1"}
+{"level":"error","message":"ERROR: Invalid token, Unauthorized, "}
+{"level":"info","message":"request: /products sent from IP address ::1"}
+{"level":"error","message":"ERROR: Invalid token, Unauthorized, "}
+{"level":"info","message":"request: /products sent from IP address ::1"}
+{"level":"info","message":"request: /products sent from IP address ::1"}
+{"level":"error","message":"ERROR: Invalid token, Unauthorized, "}
+{"level":"info","message":"request: /auth/google sent from IP address ::1"}
+{"level":"info","message":"request: /auth/google/callback?iss=https%3A%2F%2Faccounts.google.com&code=4%2F0AUn6Hd_-iS9qL9wQpfz_-5271VoyYkMP0f0kcrWALqPecIQyLbMWUQv4Ol6GdDiAOZOT7g&scope=email+profile+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.email+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.profile+openid&authuser=0&prompt=none sent from IP address ::1"}
+{"level":"info","message":"request: /products sent from IP address ::1"}
+{"level":"info","message":"request: /products sent from IP address ::1"}
+{"level":"info","message":"request: /order/cart/9 sent from IP address ::1"}
+{"level":"info","message":"request: /order/cart/9 sent from IP address ::1"}
+{"level":"info","message":"request: /sw.js sent from IP address ::1"}
+{"level":"info","message":"request: /sw.js sent from IP address ::1"}
+{"level":"info","message":"Server started on port: 3000"}
+{"level":"info","message":"Server started on port: 3000"}
+{"level":"info","message":"Server started on port: 3000"}
+{"level":"info","message":"request: /sw.js sent from IP address ::1"}
+{"level":"info","message":"request: /products sent from IP address ::1"}
+{"level":"info","message":"request: /products sent from IP address ::1"}
+{"level":"info","message":"request: /order/cart/9 sent from IP address ::1"}
+{"level":"info","message":"request: /order/cart/9 sent from IP address ::1"}
+{"level":"info","message":"request: /products sent from IP address ::1"}
+{"level":"info","message":"request: /auth/google sent from IP address ::1"}
+{"level":"info","message":"request: /auth/google/callback?iss=https://accounts.google.com&code=4/0AUn6Hd87dfLx6o5nCju_IykcaoGtY3cUdCoXxTbq-YGpvRsSYsVBAHJYBhzy1FsEmxXeuA&scope=email+profile+https://www.googleapis.com/auth/userinfo.profile+https://www.googleapis.com/auth/userinfo.email+openid&authuser=0&prompt=none sent from IP address ::1"}
+{"level":"info","message":"request: /products sent from IP address ::1"}
+{"level":"info","message":"request: /products sent from IP address ::1"}
+{"level":"info","message":"request: /order/cart/9 sent from IP address ::1"}
+{"level":"info","message":"request: /order/cart/9 sent from IP address ::1"}
+{"level":"info","message":"request: /order/cart/9 sent from IP address ::1"}
+{"level":"info","message":"request: /order/cart/9 sent from IP address ::1"}
+{"level":"info","message":"request: /products sent from IP address ::1"}
+{"level":"info","message":"request: /products sent from IP address ::1"}
+{"level":"info","message":"request: /order/cart/9 sent from IP address ::1"}
+{"level":"info","message":"request: /order/cart/9 sent from IP address ::1"}
+{"level":"info","message":"request: /sw.js sent from IP address ::1"}
+{"level":"info","message":"request: /products sent from IP address ::1"}
+{"level":"info","message":"request: /products sent from IP address ::1"}
+{"level":"info","message":"request: /order/cart/9 sent from IP address ::1"}
+{"level":"info","message":"request: /order/cart/9 sent from IP address ::1"}
+{"level":"info","message":"request: /sw.js sent from IP address ::1"}
+{"level":"info","message":"request: /auth/google sent from IP address ::1"}
+{"level":"info","message":"request: /auth/google/callback?iss=https://accounts.google.com&code=4/0AUn6Hd_Y7-AUc9NK12UIux23NiyqsrN-AYP0DPBhvJ34MfX5-yW4y6N-H6vjUq1sMFyjhQ&scope=email+profile+https://www.googleapis.com/auth/userinfo.profile+https://www.googleapis.com/auth/userinfo.email+openid&authuser=0&prompt=none sent from IP address ::1"}
+{"level":"info","message":"request: /products sent from IP address ::1"}
+{"level":"info","message":"request: /products sent from IP address ::1"}
+{"level":"info","message":"request: /order/cart/9 sent from IP address ::1"}
+{"level":"info","message":"request: /order/cart/9 sent from IP address ::1"}
+{"level":"info","message":"request: /sw.js sent from IP address ::1"}
+{"level":"info","message":"request: /sw.js sent from IP address ::1"}
+{"level":"info","message":"request: /auth/google sent from IP address ::1"}
+{"level":"info","message":"request: /auth/google/callback?iss=https://accounts.google.com&code=4/0AUn6Hd9t8gsguGgmMNgCEMgySvCJWQ6ljRBiBdX4d0gbB1cvQvv5381V2bRJ2f5kMLkPgg&scope=email+profile+https://www.googleapis.com/auth/userinfo.profile+openid+https://www.googleapis.com/auth/userinfo.email&authuser=0&prompt=none sent from IP address ::1"}
+{"level":"info","message":"request: /products sent from IP address ::1"}
+{"level":"info","message":"request: /products sent from IP address ::1"}
+{"level":"info","message":"request: /order/cart/9 sent from IP address ::1"}
+{"level":"info","message":"request: /order/cart/9 sent from IP address ::1"}
+{"level":"info","message":"request: /sw.js sent from IP address ::1"}
